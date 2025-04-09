@@ -7,3 +7,6 @@
 Lista
 - Elemento 1
 - Elemento 2
+
+# Otra sección
+A ver
